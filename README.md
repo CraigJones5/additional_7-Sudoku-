@@ -4,7 +4,7 @@
 
 Implement function `solveSudoku(matrix)`, that for given incomplete matrix will return solved sudoku. `0` means `no value`
 
-[What is sudoku?](https://en.wikipedia.org/wiki/Sudoku)
+[What is sudoku?](https://en.wikipedia.org/wiki/Sudoku)\
 [Sudoku for Beginners](https://www.youtube.com/playlist?list=PLAhxvOuSHpkYsUufBeuHjQUNcb3iHt9nl)
 
 ```js
